@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2416" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2962" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,7 +357,7 @@
           <mxGeometry x="1370" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1579" value="Length" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1720" width="120" height="30" as="geometry" />
+          <mxGeometry x="1820" y="1730" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1580" value="Frequency" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2140" y="1680" width="120" height="30" as="geometry" />
@@ -366,13 +366,40 @@
           <mxGeometry x="1975" y="1680" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1582" value="Mass" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1760" width="120" height="30" as="geometry" />
+          <mxGeometry x="1820" y="1780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1583" value="Stiffness" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1800" width="120" height="30" as="geometry" />
+          <mxGeometry x="1820" y="1820" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1585" value="Dampening Coefficient" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2300" y="1680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1587" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2022.5" y="1760" as="sourcePoint" />
+            <mxPoint x="2023" y="1732.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1588" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2180" y="1730" as="sourcePoint" />
+            <mxPoint x="2180" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1589" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="1760" as="sourcePoint" />
+            <mxPoint x="1840.5" y="1732.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1590" value="F = K x&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hooke&#39;s Law&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1221.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1592" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" edge="1" parent="1" source="NpMVmpPeoFZolYydam3e-1591" target="NpMVmpPeoFZolYydam3e-1546">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1591" value="Friction" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1505" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
