@@ -342,60 +342,60 @@
           <mxGeometry x="1990" y="620" width="820" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1572" value="&lt;b&gt;Equation of Motion&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1720" width="140" height="80" as="geometry" />
+          <mxGeometry x="1290" y="1910" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1573" value="Coordinate System" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NpMVmpPeoFZolYydam3e-1574" value="Degree of Freedom" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1463.5" y="1640" width="120" height="60" as="geometry" />
+        <mxCell id="NpMVmpPeoFZolYydam3e-1574" value="Degree of Freedom&lt;div&gt;(DOF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1431.75" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1575" value="Newton 2nd Law" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1810" width="120" height="30" as="geometry" />
+          <mxGeometry x="1320" y="2000" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1576" value="D&#39;Alembert&#39;s Principle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1850" width="120" height="30" as="geometry" />
+          <mxGeometry x="1320" y="2040" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1577" value="Work Energy" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1890" width="120" height="30" as="geometry" />
+          <mxGeometry x="1320" y="2080" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1578" value="&lt;b&gt;&lt;u&gt;Other&lt;/u&gt;&lt;/b&gt;:&lt;div&gt;Virtual Work&lt;/div&gt;&lt;div&gt;Impulse-Momentum&lt;/div&gt;&lt;div&gt;Variational Principles&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1940" width="120" height="60" as="geometry" />
+          <mxGeometry x="1320" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1579" value="Length" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1730" width="120" height="30" as="geometry" />
+          <mxGeometry x="2117.5" y="1720" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1580" value="Frequency" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="1680" width="120" height="30" as="geometry" />
+          <mxGeometry x="2437.5" y="1670" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1581" value="Period" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1975" y="1680" width="120" height="30" as="geometry" />
+          <mxGeometry x="2272.5" y="1670" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1582" value="Mass" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1780" width="120" height="30" as="geometry" />
+          <mxGeometry x="2117.5" y="1770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1583" value="Stiffness" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1820" width="120" height="30" as="geometry" />
+          <mxGeometry x="2117.5" y="1810" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1585" value="Dampening Coefficient" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1870" width="120" height="30" as="geometry" />
+          <mxGeometry x="2117.5" y="1860" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1587" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2022.5" y="1760" as="sourcePoint" />
-            <mxPoint x="2023" y="1732.5" as="targetPoint" />
+            <mxPoint x="2320" y="1750" as="sourcePoint" />
+            <mxPoint x="2320.5" y="1722.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1588" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2180" y="1730" as="sourcePoint" />
-            <mxPoint x="2180" y="1760" as="targetPoint" />
+            <mxPoint x="2477.5" y="1720" as="sourcePoint" />
+            <mxPoint x="2477.5" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1589" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1840" y="1760" as="sourcePoint" />
-            <mxPoint x="1840.5" y="1732.5" as="targetPoint" />
+            <mxPoint x="2137.5" y="1750" as="sourcePoint" />
+            <mxPoint x="2138" y="1722.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1590" value="F = K x&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hooke&#39;s Law&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
@@ -421,6 +421,90 @@
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1597" value="Fast&amp;nbsp;&lt;div&gt;(ex: impact)&lt;div&gt;Leads to a Dynamic&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1600" value="Forces" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1601" value="Inertial" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1602" value="Dampening" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1603" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NpMVmpPeoFZolYydam3e-1601" target="NpMVmpPeoFZolYydam3e-1601">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1604" value="Elastic" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1611" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NpMVmpPeoFZolYydam3e-1605" target="NpMVmpPeoFZolYydam3e-1609">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1605" value="Assumptions to Reduce DOF" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1431.75" y="1790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1610" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NpMVmpPeoFZolYydam3e-1608" target="NpMVmpPeoFZolYydam3e-1605">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1608" value="Multiple DOF&lt;div&gt;MDOF&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1431.75" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1609" value="Single DOF&lt;div&gt;SDOF&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1431.75" y="1850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1613" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NpMVmpPeoFZolYydam3e-1612" target="NpMVmpPeoFZolYydam3e-1605">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1612" value="1. Neglect Relatively Small Masses&lt;div&gt;2. Neglet Rotational Inertia when size &amp;lt;&amp;lt; Length&lt;/div&gt;&lt;div&gt;3. Point Masses&lt;/div&gt;&lt;div&gt;4. Assume Rigid if Relative Stiffness &amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;5. Limit Dimensions (X,Y,Z)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1730" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1614" value="Applied Forces" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1615" value="F(t) = 0&lt;div&gt;Free Vibrations&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1616" value="Boundary Conditions" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1617" value="Initial Displacement/Velocity" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1619" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NpMVmpPeoFZolYydam3e-1618" target="NpMVmpPeoFZolYydam3e-1573">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1618" value="Positive Sign Conventions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1620" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2140" y="1798.75" as="sourcePoint" />
+            <mxPoint x="2140.5" y="1771.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1621" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="1800" as="sourcePoint" />
+            <mxPoint x="2320.5" y="1772.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1622" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;width=13.043478260869566;endSize=3.9304347826086956;fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2639.38" y="1770" as="sourcePoint" />
+            <mxPoint x="2639.38" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1623" value="Decay Rate" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1670" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1624" value="Spring&#39;s" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="1305" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1625" value="Series" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1342.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NpMVmpPeoFZolYydam3e-1626" value="Parellel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1342.5" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
