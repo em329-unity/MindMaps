@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.14">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3154" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2933" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1350" value="Constitutive&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Force &amp;amp; Displacement aka&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Stress . Strain&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1480" y="873.37" width="183.5" height="182" as="geometry" />
+          <mxGeometry x="1513.5" y="893.37" width="183.5" height="182" as="geometry" />
         </mxCell>
         <mxCell id="1352" value="Compatibility&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Displacements&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1323.5" y="628.25" width="190" height="183.5" as="geometry" />
+          <mxGeometry x="1348.25" y="638.25" width="190" height="183.5" as="geometry" />
         </mxCell>
         <mxCell id="tunzIx4tNhsC5PCZ-3-s-1543" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1355" target="tunzIx4tNhsC5PCZ-3-s-1542" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           <mxGeometry x="1714" y="140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tunzIx4tNhsC5PCZ-3-s-1556" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Unknowns&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="2470" y="900" width="100" height="60" as="geometry" />
+          <mxGeometry x="2482.5" y="900" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tunzIx4tNhsC5PCZ-3-s-1558" value="Unit Load" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2750" y="1055.37" width="120" height="60" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1518" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" edge="1" parent="1" source="tunzIx4tNhsC5PCZ-3-s-1566" target="1515">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="990" />
+              <mxPoint x="890" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,7 +217,7 @@
           <mxGeometry x="830" y="1470" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hRcAGuIF9GtKOeHrfG8j-1538" value="How does the force&lt;div&gt;&amp;nbsp;flow between&lt;/div&gt;&lt;div&gt;&amp;nbsp;members?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="855" y="998.25" width="170" height="100" as="geometry" />
+          <mxGeometry x="847.5" y="1105.37" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hRcAGuIF9GtKOeHrfG8j-1546" value="Stiffness" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontSize=26;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="260" y="1098.25" width="120" height="60" as="geometry" />
@@ -235,7 +235,7 @@
           <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hRcAGuIF9GtKOeHrfG8j-1551" value="Tributary Area/Load Path" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="722.5" y="1127.12" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hRcAGuIF9GtKOeHrfG8j-1561" value="Isotropic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="940" width="120" height="60" as="geometry" />
@@ -380,7 +380,7 @@
           <mxGeometry x="1410" y="1720" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1570" value="Hysterias Plot" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="660" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NpMVmpPeoFZolYydam3e-1571" value="ELASTIC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1990" y="620" width="820" height="60" as="geometry" />
@@ -550,7 +550,7 @@
         <mxCell id="NpMVmpPeoFZolYydam3e-1626" value="Parellel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="2087.5" y="1416.62" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1516" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.013;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" edge="1" parent="1" source="1515" target="tunzIx4tNhsC5PCZ-3-s-1567">
+        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1516" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.683;exitY=0.047;exitDx=0;exitDy=0;entryX=1.013;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;exitPerimeter=0;" edge="1" parent="1" source="1515" target="tunzIx4tNhsC5PCZ-3-s-1567">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1400" y="550" />
@@ -637,6 +637,9 @@
         </mxCell>
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1550" value="&lt;b&gt;&lt;u&gt;Types&lt;/u&gt;&lt;/b&gt;:&lt;div&gt;Gravity (Dead)&lt;/div&gt;&lt;div&gt;Live&lt;/div&gt;&lt;div&gt;Wind&lt;/div&gt;&lt;div&gt;Earthquake&lt;/div&gt;&lt;div&gt;Snow&lt;/div&gt;&lt;div&gt;Rain&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-190" y="256" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1557" value="Risk/Uncertainity" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="760" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
