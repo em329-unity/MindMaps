@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.14">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2492" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,7 +576,7 @@
         </mxCell>
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1539" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=6;" edge="1" parent="1" source="IjxKF1HIO3rGTl3Ejmte-1530">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1990" y="770" as="targetPoint" />
+            <mxPoint x="2010" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1530" value="Linearly Elastic" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -598,10 +598,16 @@
           <mxGeometry x="1550" y="680" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1536" value="Matrix Analysis" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="3210" y="1199.37" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1540" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2031.5" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1540" value="&lt;b&gt;SUPERPOSITION&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="2031.5" y="740" width="158.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1541" value="Displacement Method&lt;div&gt;(Aka Stiffness Method)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="1087.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1542" value="Force Method" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
