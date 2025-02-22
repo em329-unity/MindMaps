@@ -1012,8 +1012,8 @@
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1637" value="PIN&lt;div&gt;ROLLER&lt;/div&gt;&lt;div&gt;FIXED&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="690" y="2131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VQmzDQnIpMsTc2xFqu98-1638" value="&lt;b&gt;Unstable&lt;/b&gt;:&lt;div&gt;-&amp;gt; Buckling&lt;/div&gt;&lt;div&gt;-&amp;gt; Illegal Release&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1441.25" width="120" height="60" as="geometry" />
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1638" value="&lt;b&gt;Unstable&lt;/b&gt;:&lt;div&gt;-&amp;gt; Improper Supports&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;( Illegal Release )&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt;&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Buckling&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;gt; Internal Stability&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1441.25" width="120" height="68.75" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1640" value="&lt;b&gt;Assumptions&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2200" y="322.12" width="175" height="58.25" as="geometry" />
@@ -1126,8 +1126,8 @@
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1684" value="&lt;b&gt;Resistance&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="1132.24" width="82.5" height="56.25" as="geometry" />
         </mxCell>
-        <mxCell id="VQmzDQnIpMsTc2xFqu98-1686" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1650" width="120" height="60" as="geometry" />
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1686" value="&lt;b&gt;Energy Dissipation:&lt;/b&gt;&lt;div&gt;Cracking (Plastic Deformations)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1687" value="Aspect Ratio/Slenderness" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="315" y="1921.77" width="105" height="38.23" as="geometry" />
@@ -1293,11 +1293,23 @@
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1743" value="Projection" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="3070" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VQmzDQnIpMsTc2xFqu98-1744" value="Continuous Beams" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1744" value="Continuous Beams" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="1914.51" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1745" value="Joists" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="840" y="1847.26" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1746" value="Pnedulum" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="989.01" y="2000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1747" value="Canteliever&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1748" value="&lt;b&gt;RESONANCE&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1749" value="FUSES" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="485.37" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
