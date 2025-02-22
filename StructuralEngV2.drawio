@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.15">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2103" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2613" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -569,8 +569,8 @@
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1535" value="1st and 2nd order Analysis" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1550" y="680" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1536" value="Matrix Analysis" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3210" y="1199.37" width="120" height="60" as="geometry" />
+        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1536" value="Math" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="3340" y="1591.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1540" value="&lt;b&gt;SUPERPOSITION&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="2031.5" y="740" width="158.5" height="60" as="geometry" />
@@ -689,8 +689,26 @@
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1597" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="hRcAGuIF9GtKOeHrfG8j-1530" target="hRcAGuIF9GtKOeHrfG8j-1530" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VQmzDQnIpMsTc2xFqu98-1515" value="Step 1 Take a small Cut, apply E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1515" value="Step 1 Take a small Cut, apply Equilibrium Equation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="917.87" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1516" value="Calculus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1517" value="Linear Algebra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1518" value="Differential Equations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3470" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1519" value="Step 2: Divde by Delta x" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="985.37" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1520" value="Step 3: Take Lim as Delta X Approaches 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="1052.87" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1521" value="Step 4: Append Natural and Essential B.C." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="1125.37" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
