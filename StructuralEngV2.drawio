@@ -573,7 +573,7 @@
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1523" value="Mass&lt;div&gt;Momentum&lt;/div&gt;&lt;div&gt;Energy&lt;/div&gt;&lt;div&gt;Electrical Charge&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1380" y="1241" width="90" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1524" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Equilibrium&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="IjxKF1HIO3rGTl3Ejmte-1524" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Equilibrium &lt;/font&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(Conservation Eqns)&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="2200" y="150" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IjxKF1HIO3rGTl3Ejmte-1529" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="IjxKF1HIO3rGTl3Ejmte-1523" target="IjxKF1HIO3rGTl3Ejmte-1523" edge="1">
@@ -724,14 +724,14 @@
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1515" value="Step 1 Take a small Cut, apply Equilibrium Equation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4040" y="917.87" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VQmzDQnIpMsTc2xFqu98-1516" value="Calculus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3340" y="1718.5" width="120" height="60" as="geometry" />
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1516" value="Calculus + Multi-variable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1517" value="Linear Algebra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3490" y="1718.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3470" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1518" value="Differential Equations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3630" y="1718.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3610" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1519" value="Step 2: Divde by Delta x" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4040" y="985.37" width="120" height="60" as="geometry" />
@@ -1004,7 +1004,7 @@
           <mxGeometry x="360" y="1491.25" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1635" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;POWERFUL TOOLS&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2165.5" y="-28.25" width="400" height="90" as="geometry" />
+          <mxGeometry x="2165.5" y="-156" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1636" value="&lt;b&gt;Symmetry&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2200" y="229.62" width="175" height="58.25" as="geometry" />
@@ -1016,13 +1016,13 @@
           <mxGeometry x="1520" y="1441.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1640" value="&lt;b&gt;Assumptions&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="307.12" width="175" height="58.25" as="geometry" />
+          <mxGeometry x="2200" y="322.12" width="175" height="58.25" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1641" value="&lt;b&gt;Linear Elastic&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2440" y="266.37" width="140" height="58.25" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1642" value="&lt;b&gt;Small Angles&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="335.25" width="140" height="58.25" as="geometry" />
+          <mxGeometry x="2440" y="360" width="140" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1643" value="Waves&amp;nbsp;&lt;div&gt;(Sinusoidals)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="3177" y="1720" width="120" height="60" as="geometry" />
@@ -1054,7 +1054,7 @@
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1656" value="Yield Stress" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1385.74" width="120" height="34.26" as="geometry" />
         </mxCell>
-        <mxCell id="VQmzDQnIpMsTc2xFqu98-1657" value="Abstraction" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;labelBackgroundColor=default;fillColor=#e51400;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1657" value="Abstraction" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2200" y="415.37" width="168.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1658" value="Normalized Units&amp;nbsp;&lt;div&gt;(Value/Total)&lt;/div&gt;&lt;div&gt;EX (Strain or Force -&amp;gt; Stress)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -1120,11 +1120,11 @@
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1682" value="Natual" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VQmzDQnIpMsTc2xFqu98-1683" value="&lt;b&gt;Transport Laws&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1087.49" width="210" height="30" as="geometry" />
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1683" value="&lt;b&gt;Transport Laws&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Fluxs)&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1087.49" width="210" height="42.51" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1684" value="&lt;b&gt;Resistance&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1553.75" y="1112.13" width="82.5" height="56.25" as="geometry" />
+          <mxGeometry x="1550" y="1132.24" width="82.5" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1686" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1740" y="1650" width="120" height="60" as="geometry" />
@@ -1171,10 +1171,133 @@
           <mxGeometry x="1054.24" y="1035.63" width="185" height="114.37" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1702" value="Would you&lt;div&gt;&amp;nbsp;sign it?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-108.25" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="-80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VQmzDQnIpMsTc2xFqu98-1703" value="Noticeable signs before failure?" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-350" y="406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1704" value="Shoulder we Stand on?" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2200" y="505" width="168.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1705" value="AISC Design Guides/ Commentary" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2455.5" y="570" width="224.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1706" value="Manuals/Specfications" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2455.5" y="535" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1707" value="&lt;b&gt;Definitions&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2202.5" y="4.5" width="175" height="58.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1708" value="Define things clearly, draw the line" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1709" value="&lt;b&gt;QUESTIONS!!!&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2202.5" y="-58" width="175" height="58.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1710" value="Rounding/Sig Figs" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1711" value="Percision/Accurarcy" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1712" value="Detail Library" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2455.5" y="500.37" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1713" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Advice&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="-156" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1714" value="Cut Once Measure Twice.... Then have someone else review it" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="-56.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1715" value="Clean. Organized. Simple" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="10" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1716" value="Establish Question -&amp;gt; Read Question -&amp;gt; Write Procedure -&amp;gt; Save Space for Solution -&amp;gt; Show your work -&amp;gt; Solve, underline -&amp;gt; Read the question again" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="80" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1717" value="Write Equation First, Solve Symbolically" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="90" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1718" value="What are the influential parameters?" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1719" value="Find: (W/ Diagram)&lt;div&gt;Given: (+Assumptions)&lt;/div&gt;&lt;div&gt;Solve: (w/ References&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1720" value="Tabulate results w/ governing limit state" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1721" value="By Inspection" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2930" y="183.24" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1722" value="Connect the Dots... Where else have you seen this?" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="255.37" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1723" value="First Principles" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="324.62" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1725" value="Data Reduction" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2020" y="-10" width="168.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1726" value="&lt;b&gt;CHECK &lt;/b&gt;Your &lt;b&gt;UNITS &lt;/b&gt;and Sign Convention" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1727" value="Eccentricity" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1728" value="Shells" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2371" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1729" value="Curvature/Inflections" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="796.5" y="2390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1730" value="" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1141.25" width="230" height="148.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1731" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1153" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1732" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654.17" y="1104.12" as="sourcePoint" />
+            <mxPoint x="654.17" y="1185.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1733" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1182.74" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1734" value="Its up to you to create the path of stress" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1735" value="Clustering" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2019" y="62.75" width="168.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1736" value="Clustering" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2019" y="140" width="168.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1737" value="What Parameters Control???" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="-60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1738" value="Be Conservative... You don&#39;t need a perfect answer. Just not the wrong one" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="470.37" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1740" value="Principle Component Analysis" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2019" y="225" width="168.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1741" value="TRIAL AND ERROR &lt;font style=&quot;font-size: 15px;&quot;&gt;(good initial Guess)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#e51400;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2019" y="318.5" width="168.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1742" value="Geometry" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3043" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1743" value="Projection" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1744" value="Continuous Beams" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1914.51" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQmzDQnIpMsTc2xFqu98-1745" value="Joists" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1847.26" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
