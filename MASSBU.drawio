@@ -300,7 +300,7 @@
         <mxCell id="FZWcAyS96nI4NnQCvx1--147" value="What could go&lt;div&gt;&amp;nbsp;wrong ...&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="795" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FZWcAyS96nI4NnQCvx1--148" value="Assembly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZWcAyS96nI4NnQCvx1--148" value="Assembly" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-70" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZWcAyS96nI4NnQCvx1--149" value="Anticipated Loads" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -342,8 +342,14 @@
         <mxCell id="FZWcAyS96nI4NnQCvx1--166" value="What will be the state for disassembly" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-260" y="1220" width="170" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="FZWcAyS96nI4NnQCvx1--167" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1360" width="120" height="60" as="geometry" />
+        <mxCell id="FZWcAyS96nI4NnQCvx1--168" value="Bamboo Culm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1495" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--169" value="Plywood" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1405" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--170" value="Solid Wood" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
