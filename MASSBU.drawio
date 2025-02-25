@@ -128,8 +128,14 @@
         <mxCell id="FZWcAyS96nI4NnQCvx1--46" value="Actuator" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="367.5" y="970" width="132.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="FZWcAyS96nI4NnQCvx1--48" target="FZWcAyS96nI4NnQCvx1--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZWcAyS96nI4NnQCvx1--48" value="&lt;b&gt;INPUT&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="FZWcAyS96nI4NnQCvx1--49" target="FZWcAyS96nI4NnQCvx1--40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZWcAyS96nI4NnQCvx1--49" value="&lt;b&gt;OUTPUT&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="670" width="120" height="60" as="geometry" />
@@ -144,6 +150,9 @@
           <mxGeometry x="120" y="1220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FZWcAyS96nI4NnQCvx1--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=3;" edge="1" parent="1" source="FZWcAyS96nI4NnQCvx1--54" target="FZWcAyS96nI4NnQCvx1--55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZWcAyS96nI4NnQCvx1--54" target="FZWcAyS96nI4NnQCvx1--90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZWcAyS96nI4NnQCvx1--54" value="Bamboo Culm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -188,8 +197,8 @@
         <mxCell id="FZWcAyS96nI4NnQCvx1--68" value="Solid Wood" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="975" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FZWcAyS96nI4NnQCvx1--77" value="&lt;b&gt;Equilibrium&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367" y="1030" width="120" height="30" as="geometry" />
+        <mxCell id="FZWcAyS96nI4NnQCvx1--77" value="&lt;b&gt;Equilibrium&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1030" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FZWcAyS96nI4NnQCvx1--81" value="How Much Do We&lt;div&gt;Need?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="730" width="150" height="70" as="geometry" />
@@ -197,17 +206,35 @@
         <mxCell id="FZWcAyS96nI4NnQCvx1--82" value="What are the Connection Capacities?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="800" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FZWcAyS96nI4NnQCvx1--84" value="Adhesive" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry y="1005" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FZWcAyS96nI4NnQCvx1--85" value="Adhesive" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry y="1080" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FZWcAyS96nI4NnQCvx1--86" value="Adhesive" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1150" width="120" height="30" as="geometry" />
+        <mxCell id="FZWcAyS96nI4NnQCvx1--84" value="Adhesive +&lt;div&gt;Pressing&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1005" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FZWcAyS96nI4NnQCvx1--88" value="Number of Tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="785" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZWcAyS96nI4NnQCvx1--90" target="FZWcAyS96nI4NnQCvx1--53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--90" value="Tie Downs!!" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="1135" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--96" value="Adhesive +&lt;div&gt;Pressing&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1072.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--97" value="Adhesive +&lt;div&gt;Pressing&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1142.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--98" value="CMU + Mortar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--99" value="Adhesive +&lt;div&gt;Pressing&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1195" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--100" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZWcAyS96nI4NnQCvx1--101" value="How long do we have&lt;div&gt;&amp;nbsp;to press it for?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1020" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
