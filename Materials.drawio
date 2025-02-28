@@ -118,14 +118,17 @@
         <mxCell id="gctN2HLwPnyMHR_A9f3M-24" value="Beam Cope" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="250" y="-1020" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gctN2HLwPnyMHR_A9f3M-25" value="Beam Cope" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-970" width="102.5" height="30" as="geometry" />
+        <mxCell id="gctN2HLwPnyMHR_A9f3M-25" value="Web Stiffiners" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="-1180" width="102.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gctN2HLwPnyMHR_A9f3M-28" value="&lt;b&gt;Connections/&lt;/b&gt;&lt;div&gt;&lt;b&gt;Stability&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="60" y="2160" width="410" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="gctN2HLwPnyMHR_A9f3M-31" value="&lt;b&gt;Tension&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;rotation=-40;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-120" width="240" height="60" as="geometry" />
+        <mxCell id="gctN2HLwPnyMHR_A9f3M-31" value="&lt;b&gt;Tension&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=39;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="653.51" y="-110.36" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gctN2HLwPnyMHR_A9f3M-32" value="Connection Clearance:&lt;div&gt;1/2 in&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="258.75" y="-1570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
