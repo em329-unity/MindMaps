@@ -422,7 +422,7 @@
         <mxCell id="Ml0Uu6weIOQF-b9EWMmt-23" value="Culm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2865" y="710" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ml0Uu6weIOQF-b9EWMmt-24" value="# of Nodes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ml0Uu6weIOQF-b9EWMmt-24" value="# of Culms" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2980" y="690" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ml0Uu6weIOQF-b9EWMmt-25" value="What is commonly found in Ecuador/Ethiopia?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
