@@ -443,8 +443,11 @@
         <mxCell id="2Hw40hMeV953XPL_EQde-1" value="Strength Limit&amp;nbsp;&lt;div&gt;State&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2Hw40hMeV953XPL_EQde-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-20" width="1800" height="1660" as="geometry" />
+        <mxCell id="2Hw40hMeV953XPL_EQde-3" value="2% Drift Limit" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Hw40hMeV953XPL_EQde-4" value="Yield Point" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493.75" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
